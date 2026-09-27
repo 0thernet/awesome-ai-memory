@@ -145,7 +145,7 @@ session context that survive the context window.
 | [Cursor Memories](https://docs.cursor.com/context/memories) | closed | files | no | yes | Auto-generated rules from past conversations, scoped per project |
 | [MCP Memory Keeper](https://github.com/mkreyman/mcp-memory-keeper) | MIT | sql | yes | no | SQLite-backed MCP server preserving coding session context, decisions and progress across compactions |
 | [Windsurf Memories](https://docs.windsurf.com/windsurf/cascade/memories) | closed | files | no | yes | Cascade auto-memories and user rules persisting context between sessions |
-| [Wordcell](https://github.com/hraness/wordcell) | MIT | files | yes | no | Markdown knowledge base beside the repo so coding agents find decisions, plans and sources from the file being changed ([site](https://wordcell.io)) |
+| [Wordcell](https://github.com/hraness/wordcell) | MIT | files | yes | no | Markdown knowledge base that keeps decisions, plans and sources beside the code, so an agent can pull the notes for the file it will change ([site](https://wordcell.io)) |
 
 ## Platform and Consumer Memory
 

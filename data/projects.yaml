@@ -444,7 +444,7 @@
   - files
   mcp: true
   hosted: false
-  desc: Markdown knowledge base beside the repo so coding agents find decisions, plans and sources from the file being changed
+  desc: Markdown knowledge base that keeps decisions, plans and sources beside the code, so an agent can pull the notes for the file it will change
   license: MIT
 - name: Agno memory
   repo: agno-agi/agno
