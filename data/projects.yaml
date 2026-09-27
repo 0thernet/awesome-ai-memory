@@ -434,7 +434,7 @@
   - sql
   mcp: false
   hosted: false
-  desc: Open-source memory for agents that stores each fact with its sources and every change in a replayable history
+  desc: Memory framework that stores each fact with its sources and every change in a replayable history, over a local SQLite file
   license: MIT
 - name: Windsurf Memories
   repo: null

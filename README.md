@@ -144,7 +144,7 @@ session context that survive the context window.
 | [claude-mem](https://github.com/thedotmack/claude-mem) | Apache-2.0 | vector, sql | yes | no | Claude Code plugin that compresses session transcripts into searchable persistent memory |
 | [Cursor Memories](https://docs.cursor.com/context/memories) | closed | files | no | yes | Auto-generated rules from past conversations, scoped per project |
 | [MCP Memory Keeper](https://github.com/mkreyman/mcp-memory-keeper) | MIT | sql | yes | no | SQLite-backed MCP server preserving coding session context, decisions and progress across compactions |
-| [Oh](https://github.com/hraness/oh) | MIT | sql | no | no | Open-source memory for agents that stores each fact with its sources and every change in a replayable history ([site](https://oh.computer)) |
+| [Oh](https://github.com/hraness/oh) | MIT | sql | no | no | Memory framework that stores each fact with its sources and every change in a replayable history, over a local SQLite file ([site](https://oh.computer)) |
 | [Windsurf Memories](https://docs.windsurf.com/windsurf/cascade/memories) | closed | files | no | yes | Cascade auto-memories and user rules persisting context between sessions |
 
 ## Platform and Consumer Memory
